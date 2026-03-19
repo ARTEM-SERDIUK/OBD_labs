@@ -127,11 +127,15 @@ _(Разом з попереднім пунктом це реалізує зв�
 
 ## 🧪Тестування
 - Створення усіх таблиць у PostgreSQL
+
 ![tables](https://github.com/ARTEM-SERDIUK/OBD_labs/blob/main/2lab/img/tables.png)
 
 - Запис даних у кожну таблицю (напр. Players, Vehicles, Hangar)
+
 ![Players](https://github.com/ARTEM-SERDIUK/OBD_labs/blob/main/2lab/img/Players.png)
+
 ![Vehicles](https://github.com/ARTEM-SERDIUK/OBD_labs/blob/main/2lab/img/Vehicles.png)
+
 ![Hangar](https://github.com/ARTEM-SERDIUK/OBD_labs/blob/main/2lab/img/Hangar.png)
 
 ⚙️ Усі SQL-скрипти виконуються коректно.
