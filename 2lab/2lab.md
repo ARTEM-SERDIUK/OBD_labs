@@ -1,4 +1,4 @@
-﻿# Лабораторна робота №2
+﻿# 🎓Лабораторна робота №2
 ## Перетворення ER-діаграми на схему PostgreSQL
 <hr style="height: 2px; background-color: #30363d; border: none;">
 
